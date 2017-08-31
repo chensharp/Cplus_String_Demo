@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504167586 source:e:\codeblocksproject\cplus_string_demo\main.cpp
+	<iostream>
+	<string>
+
